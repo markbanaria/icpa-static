@@ -1,0 +1,73 @@
+.text-center {
+  text-align: center;
+}
+
+.text-700 {
+  font-weight: 700;
+}
+
+.text-300 {
+  font-weight: 300;
+}
+.text-white {
+  color: white;
+}
+
+.link-white {
+  color: white;
+}
+
+.link-white:hover {
+  color: white;
+}
+
+.font-16 {
+  font-size: 16px;
+  line-height: 24px;
+}
+.font-21 {
+  font-size: 21px;
+  line-height: 28px;
+}
+.font-24 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.font-32 {
+  font-size: 32px;
+  line-height: 40px;
+}
+.font-40 {
+  font-size: 40px;
+  line-height: 48px;
+}
+.font-48 {
+  font-size: 48px;
+  line-height: 56px;
+}
+.font-56 {
+  font-size: 56px;
+  line-height: 64px;
+}
+
+.col-centered {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.m0 {
+  margin: 0;
+}
+
+.p0 {
+  padding: 0;
+}
+
+.p32 {
+  padding: 32px;
+}

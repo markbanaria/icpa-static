@@ -1,0 +1,42 @@
+.bg-premium {
+  background-image: url('../images/premium-bg.png');
+  background-size: cover;
+}
+
+.premium-nav-promo {
+  color: white;
+  background: #a05000;
+  padding: 16px;
+}
+
+.premium-home-banner {
+  padding-top: calc(16px + 6vw);
+  padding-bottom: 152px;
+}
+
+.premium-home-banner .btn-premium {
+  margin-top: 72px;
+  margin-bottom: 64px;
+}
+
+.btn-premium {
+  background: #f57c00;
+  padding: 16px;
+}
+
+.sign-up-card-container {
+  margin-top: -128px;
+}
+
+.sign-up-card input {
+  line-height: 42px;
+  padding-left: 12px;
+}
+
+.sign-up-card {
+  border: 1px solid #dcdcdc;
+}
+
+.premium-dashboard-banner {
+  padding: 56px 0;
+}
