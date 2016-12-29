@@ -1,0 +1,23 @@
+.popover-trigger {
+  position: relative;
+  display: inline-block;
+}
+
+.popover-trigger .popover-body {
+  padding: 20px;
+  background: #dcdcdc;
+  transform:  translateY(-140px) scale(0.01,0.01);
+  transition: 0.2s;
+  position: absolute;
+  left: 50%;
+  width: 320px;
+  position: absolute;
+  left: -148px;
+  opacity: 0
+}
+
+.popover-trigger:hover .popover-body {
+  transform: scale(1,1);
+  opacity: 1;
+  margin-top: 16px;
+}

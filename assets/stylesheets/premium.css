@@ -24,6 +24,10 @@
   padding: 16px;
 }
 
+.text-premium {
+  color: #f57c00;
+}
+
 .sign-up-card-container {
   margin-top: -128px;
 }
@@ -50,4 +54,13 @@
   border-radius: 2px;
   display: inline-block;
   line-height: 12px;
+}
+
+.premium-question-badge {
+  height: 24px;
+  width: 24px;
+}
+
+.premium-question-popover .popover-body {
+  color: green;
 }

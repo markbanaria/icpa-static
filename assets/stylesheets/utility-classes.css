@@ -9,8 +9,13 @@
 .text-300 {
   font-weight: 300;
 }
+
 .text-white {
   color: white;
+}
+
+.text-light {
+  color: #727272;
 }
 
 .link-white {
