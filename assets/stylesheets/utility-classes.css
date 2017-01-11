@@ -76,3 +76,24 @@
 .p32 {
   padding: 32px;
 }
+
+.pt8 {
+  padding-top: 8px;
+}
+
+.pt16 {
+  padding-top: 16px;
+}
+
+.pt32 {
+  padding-top: 32px;
+}
+
+
+.opacity-50 {
+  opacity: 0.5;
+}
+
+.inline-block {
+  display: inline-block;
+}
