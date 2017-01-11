@@ -87,3 +87,8 @@
   width: calc(100% - 60px);
 }
 
+.premium-active-badge {
+  width: 80px;
+  margin: 16px auto 24px auto ;
+}
+

@@ -73,6 +73,10 @@
   padding: 0;
 }
 
+.p24 {
+  padding: 24px;
+}
+
 .p32 {
   padding: 32px;
 }
@@ -96,4 +100,14 @@
 
 .inline-block {
   display: inline-block;
+}
+
+
+
+.btn-white.btn-clear {
+  color: white;
+  background: transparent;
+  border: 1px solid white;
+  padding: 12px;
+  margin: 24px 0 0 0;
 }
